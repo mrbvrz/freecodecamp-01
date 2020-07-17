@@ -2,7 +2,7 @@
 
 ## What is?
 
-this repository contains project files from `freecodecamp` which I have learned and completed, my `freecodecamp` profile page can be viewed [here](https://www.freecodecamp.org/mrbvrz).
+This repository contains project files from `freecodecamp` which I have learned and completed, my `freecodecamp` profile page can be viewed [here](https://www.freecodecamp.org/mrbvrz).
 
 ## Project list
 
