@@ -6,7 +6,7 @@ This repository contains project files from `freecodecamp` which I have learned 
 
 ## Project list
 
-### [1. Responsive web design project submission.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/)
+### [1. Responsive Web Design.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/)
 - [ ] Build a Tribute Page.
 - [ ] Build a Survey Form.
 - [ ] Build a Product Landing Page.
